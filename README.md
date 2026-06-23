@@ -1,4 +1,5 @@
 # SQL
+## Module 1 completed
 1. SQL theory
 2. Basic Database Terminology
 3. Basic Steps in SQL
